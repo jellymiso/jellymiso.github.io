@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.55c2cfb2.chunk.css",
-    "main.js": "/portfolio/static/js/main.6234775e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6234775e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.bd4a0a27.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bd4a0a27.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.2ff2680c.chunk.js": "/portfolio/static/js/2.2ff2680c.chunk.js",
-    "static/js/2.2ff2680c.chunk.js.map": "/portfolio/static/js/2.2ff2680c.chunk.js.map",
+    "static/js/2.faadab7e.chunk.js": "/portfolio/static/js/2.faadab7e.chunk.js",
+    "static/js/2.faadab7e.chunk.js.map": "/portfolio/static/js/2.faadab7e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.c76930af166033f48c62d925f8085e50.js": "/portfolio/precache-manifest.c76930af166033f48c62d925f8085e50.js",
+    "precache-manifest.6afc7304fae1aa9d00d5187af743b302.js": "/portfolio/precache-manifest.6afc7304fae1aa9d00d5187af743b302.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.55c2cfb2.chunk.css.map": "/portfolio/static/css/main.55c2cfb2.chunk.css.map",
-    "static/js/2.2ff2680c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2ff2680c.chunk.js.LICENSE.txt",
+    "static/js/2.faadab7e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.faadab7e.chunk.js.LICENSE.txt",
     "static/media/banner-part1.png": "/portfolio/static/media/banner-part1.6001cfed.png",
     "static/media/banner-part2.png": "/portfolio/static/media/banner-part2.d5540ba0.png",
     "static/media/banner-part3.png": "/portfolio/static/media/banner-part3.bb8036af.png",
@@ -59,6 +59,9 @@
     "static/media/imgSingaporeSummit3.png": "/portfolio/static/media/imgSingaporeSummit3.473411d4.png",
     "static/media/imgSingaporeSummit4.png": "/portfolio/static/media/imgSingaporeSummit4.4bebaa29.png",
     "static/media/imgSingaporeSummit5.png": "/portfolio/static/media/imgSingaporeSummit5.e730c6cb.png",
+    "static/media/imgTolyn.png": "/portfolio/static/media/imgTolyn.34b5af9b.png",
+    "static/media/imgTolyn2.png": "/portfolio/static/media/imgTolyn2.982ea9c7.png",
+    "static/media/imgTolyn3.png": "/portfolio/static/media/imgTolyn3.4ea7e58a.png",
     "static/media/imgTravelApp.png": "/portfolio/static/media/imgTravelApp.535a8c62.png",
     "static/media/imgTravelApp2.jpg": "/portfolio/static/media/imgTravelApp2.fd3316e1.jpg",
     "static/media/imgWeatherData.png": "/portfolio/static/media/imgWeatherData.a5570e84.png",
@@ -69,8 +72,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.2ff2680c.chunk.js",
+    "static/js/2.faadab7e.chunk.js",
     "static/css/main.55c2cfb2.chunk.css",
-    "static/js/main.6234775e.chunk.js"
+    "static/js/main.bd4a0a27.chunk.js"
   ]
 }
