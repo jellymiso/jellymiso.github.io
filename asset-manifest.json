@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.84add130.chunk.css",
-    "main.js": "/static/js/main.197c602e.chunk.js",
+    "main.js": "/static/js/main.4b929d6b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.821ab024.chunk.js": "/static/js/2.821ab024.chunk.js",
+    "static/js/2.25b913c3.chunk.js": "/static/js/2.25b913c3.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.cb54da3bed66b9aa362961fb3d5d4156.js": "/precache-manifest.cb54da3bed66b9aa362961fb3d5d4156.js",
+    "precache-manifest.df51142375dae638c1f34a05ae80c46d.js": "/precache-manifest.df51142375dae638c1f34a05ae80c46d.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.821ab024.chunk.js.LICENSE.txt": "/static/js/2.821ab024.chunk.js.LICENSE.txt",
+    "static/js/2.25b913c3.chunk.js.LICENSE.txt": "/static/js/2.25b913c3.chunk.js.LICENSE.txt",
     "static/media/banner-part1.png": "/static/media/banner-part1.9ab8db83.png",
     "static/media/banner-part2.png": "/static/media/banner-part2.8af70df0.png",
     "static/media/banner-part3.png": "/static/media/banner-part3.218c5466.png",
@@ -101,12 +101,13 @@
     "static/media/imgWeatherData7.png": "/static/media/imgWeatherData7.d62c7912.png",
     "static/media/imgWeatherData8.png": "/static/media/imgWeatherData8.a37ce85b.png",
     "static/media/imgWeatherData9.png": "/static/media/imgWeatherData9.7c2881d7.png",
-    "static/media/jellyfish.mp4": "/static/media/jellyfish.44de2d58.mp4"
+    "static/media/jellyfish.mp4": "/static/media/jellyfish.44de2d58.mp4",
+    "static/media/og-banner.png": "/static/media/og-banner.adf30807.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.821ab024.chunk.js",
+    "static/js/2.25b913c3.chunk.js",
     "static/css/main.84add130.chunk.css",
-    "static/js/main.197c602e.chunk.js"
+    "static/js/main.4b929d6b.chunk.js"
   ]
 }
