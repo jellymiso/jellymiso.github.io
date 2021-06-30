@@ -1,27 +1,119 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "379a44eb1171b86ee90c65229d06f945",
+    "revision": "3233779c8636a4dced99e3e53ee96975",
     "url": "/index.html"
   },
   {
-    "revision": "e042841ae14c6cafe9c1",
-    "url": "/static/css/main.84add130.chunk.css"
+    "revision": "3ca26a4f13a9a5447657",
+    "url": "/static/css/10.eaa53844.chunk.css"
   },
   {
-    "revision": "9cb1c289628e962d5bbb",
-    "url": "/static/js/2.821ab024.chunk.js"
+    "revision": "1d928b9dc55845cf2a3a",
+    "url": "/static/css/11.4a573825.chunk.css"
   },
   {
-    "revision": "71d21993ab8615840366aa3da5d3a842",
-    "url": "/static/js/2.821ab024.chunk.js.LICENSE.txt"
+    "revision": "d0893180546e29a3f9af",
+    "url": "/static/css/5.f78b9403.chunk.css"
   },
   {
-    "revision": "e042841ae14c6cafe9c1",
-    "url": "/static/js/main.b0487573.chunk.js"
+    "revision": "fbc3f0dfe4e3cebc5f87",
+    "url": "/static/css/6.49fb3db5.chunk.css"
   },
   {
-    "revision": "4f2b1704eab49d50853b",
-    "url": "/static/js/runtime-main.19ccc7f6.js"
+    "revision": "d8f4b8262a1c90be6eb7",
+    "url": "/static/css/7.c1a4d3cd.chunk.css"
+  },
+  {
+    "revision": "e259e93e7d7f7c7fe879",
+    "url": "/static/css/8.b3682e07.chunk.css"
+  },
+  {
+    "revision": "b558d89c89b37ce6ba6d",
+    "url": "/static/css/9.0f3fce00.chunk.css"
+  },
+  {
+    "revision": "0a3676ea4f6bd85b568c",
+    "url": "/static/css/main.b617eddc.chunk.css"
+  },
+  {
+    "revision": "3ca26a4f13a9a5447657",
+    "url": "/static/js/10.c0ff8244.chunk.js"
+  },
+  {
+    "revision": "1d928b9dc55845cf2a3a",
+    "url": "/static/js/11.eb8b787c.chunk.js"
+  },
+  {
+    "revision": "12857080a60dc662e693",
+    "url": "/static/js/12.69c49399.chunk.js"
+  },
+  {
+    "revision": "89be3180a064dded3d02",
+    "url": "/static/js/13.88a8e9ee.chunk.js"
+  },
+  {
+    "revision": "374f1af6a8ff70d6c48d",
+    "url": "/static/js/14.657a842a.chunk.js"
+  },
+  {
+    "revision": "4ed8f98095db4f3c4b60",
+    "url": "/static/js/15.727c539c.chunk.js"
+  },
+  {
+    "revision": "54f67c9ba8a7cc400cb7",
+    "url": "/static/js/16.f4672422.chunk.js"
+  },
+  {
+    "revision": "460682c5e6cb42e9acb8",
+    "url": "/static/js/17.3a69d526.chunk.js"
+  },
+  {
+    "revision": "e2e1155be20c546c68ce",
+    "url": "/static/js/2.2dd6378a.chunk.js"
+  },
+  {
+    "revision": "6553321865fea6db354f6cf105c280b1",
+    "url": "/static/js/2.2dd6378a.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "a3d15e5d9a1c314e79e7",
+    "url": "/static/js/3.24ad75c5.chunk.js"
+  },
+  {
+    "revision": "fe07165234709e61e0cdc05d4056de5c",
+    "url": "/static/js/3.24ad75c5.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "a3c57222250d172bf718",
+    "url": "/static/js/4.652e6f4d.chunk.js"
+  },
+  {
+    "revision": "d0893180546e29a3f9af",
+    "url": "/static/js/5.59586418.chunk.js"
+  },
+  {
+    "revision": "fbc3f0dfe4e3cebc5f87",
+    "url": "/static/js/6.310d277c.chunk.js"
+  },
+  {
+    "revision": "d8f4b8262a1c90be6eb7",
+    "url": "/static/js/7.494b6f04.chunk.js"
+  },
+  {
+    "revision": "e259e93e7d7f7c7fe879",
+    "url": "/static/js/8.a5a16151.chunk.js"
+  },
+  {
+    "revision": "b558d89c89b37ce6ba6d",
+    "url": "/static/js/9.017ee5fc.chunk.js"
+  },
+  {
+    "revision": "0a3676ea4f6bd85b568c",
+    "url": "/static/js/main.02fe4a99.chunk.js"
+  },
+  {
+    "revision": "a3effb1652fb96740431",
+    "url": "/static/js/runtime-main.241ad8b6.js"
   },
   {
     "revision": "9ab8db83b2e3b4874aebdb1229111bce",
@@ -56,96 +148,96 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contact-bg.fdc2fa90.jpg"
   },
   {
-    "revision": "07b6619c71f5dd6f6b12b68be8e969a0",
-    "url": "/static/media/cover-5hour-thumb.07b6619c.jpg"
+    "revision": "aba8d538fd0fcb0534b33a2bb058582f",
+    "url": "/static/media/cover-5hour-thumb.aba8d538.jpg"
   },
   {
     "revision": "5c483e592776ee7646ce3933dcd49184",
     "url": "/static/media/cover-5hour.5c483e59.jpg"
   },
   {
-    "revision": "e2da1cfe553d6ec697e54cc30be6d24a",
-    "url": "/static/media/cover-bca-thumb.e2da1cfe.jpg"
+    "revision": "491a7026a0521dd1b756f99d32b32930",
+    "url": "/static/media/cover-bca-thumb.491a7026.jpg"
   },
   {
     "revision": "5d702d5210daf0073c2fb6f55d89dd52",
     "url": "/static/media/cover-bca.5d702d52.jpg"
   },
   {
-    "revision": "b4224d8f37d59f3a0ee9d77db81e83ac",
-    "url": "/static/media/cover-cartalog-thumb.b4224d8f.jpg"
+    "revision": "09add12d1fa6714bcb310099fde5187e",
+    "url": "/static/media/cover-cartalog-thumb.09add12d.jpg"
   },
   {
     "revision": "d7c7046b579ea6d29bd6852b2585619a",
     "url": "/static/media/cover-cartalog.d7c7046b.jpg"
   },
   {
-    "revision": "c3c860ba2e3aa15ced4fd85e9a180570",
-    "url": "/static/media/cover-fairprice-thumb.c3c860ba.jpg"
+    "revision": "5fe05c615ab0a78939b6b2670d75f576",
+    "url": "/static/media/cover-fairprice-thumb.5fe05c61.jpg"
   },
   {
     "revision": "cc657aecc3a0f58c8aa9e74b7361b248",
     "url": "/static/media/cover-fairprice.cc657aec.jpg"
   },
   {
-    "revision": "1295f77bd336b9fcb5ecf873768f0111",
-    "url": "/static/media/cover-jellydevelops-thumb.1295f77b.jpg"
+    "revision": "124b5c859297d110f47642bb03daf810",
+    "url": "/static/media/cover-jellydevelops-thumb.124b5c85.jpg"
   },
   {
     "revision": "eda2d18da61bd007b38a86524b9e4fa8",
     "url": "/static/media/cover-jellydevelops.eda2d18d.jpg"
   },
   {
-    "revision": "b1401ef003dfa192aee20e9c2cc26137",
-    "url": "/static/media/cover-nalati-thumb.b1401ef0.jpg"
+    "revision": "d7651d228c334d5602092fecee4b99b2",
+    "url": "/static/media/cover-nalati-thumb.d7651d22.jpg"
   },
   {
     "revision": "6f799fe365ab19a5269579fdf4b9340a",
     "url": "/static/media/cover-nalati.6f799fe3.jpg"
   },
   {
-    "revision": "eff05a6611b23594b562963db2a1f7ad",
-    "url": "/static/media/cover-pentax-thumb.eff05a66.jpg"
+    "revision": "d8576f602745fc0b92a93792725523dc",
+    "url": "/static/media/cover-pentax-thumb.d8576f60.jpg"
   },
   {
     "revision": "0d77adda7dd2c3c29caa5ac3a2c46508",
     "url": "/static/media/cover-pentax.0d77adda.jpg"
   },
   {
-    "revision": "03d29f21442c35c9be886108217344bb",
-    "url": "/static/media/cover-portfolio-thumb.03d29f21.jpg"
+    "revision": "44b8b9887931fcd62faec67e5beed2aa",
+    "url": "/static/media/cover-portfolio-thumb.44b8b988.jpg"
   },
   {
     "revision": "570f593351483fc137f46b7384592caf",
     "url": "/static/media/cover-portfolio.570f5933.jpg"
   },
   {
-    "revision": "c47272eb60bdc8c224504416d238fe10",
-    "url": "/static/media/cover-singaporesummit-thumb.c47272eb.jpg"
+    "revision": "ed4c42593ae4e37a561a21a75e26b57c",
+    "url": "/static/media/cover-singaporesummit-thumb.ed4c4259.jpg"
   },
   {
     "revision": "0f77b698b852b5b09fcf85195b3b26a9",
     "url": "/static/media/cover-singaporesummit.0f77b698.jpg"
   },
   {
-    "revision": "d245cca50dcb2aea089f5c4700a547e3",
-    "url": "/static/media/cover-takemeaway-thumb.d245cca5.jpg"
+    "revision": "2de716cf5aedf106fcea9ebdfa0a5848",
+    "url": "/static/media/cover-takemeaway-thumb.2de716cf.jpg"
   },
   {
     "revision": "3c2e0e923568151c5ebb5038fbddcb8e",
     "url": "/static/media/cover-takemeaway.3c2e0e92.jpg"
   },
   {
-    "revision": "29befbbd78618f19cb22d439daa920d5",
-    "url": "/static/media/cover-tolyn-thumb.29befbbd.jpg"
+    "revision": "223164df61f773ad793135467e257f94",
+    "url": "/static/media/cover-tolyn-thumb.223164df.jpg"
   },
   {
     "revision": "65fb17b2c34dcbf28ca832ed6ddc88f0",
     "url": "/static/media/cover-tolyn.65fb17b2.jpg"
   },
   {
-    "revision": "8af93e7119bb434f83869d8e53df4eff",
-    "url": "/static/media/cover-weatherdata-thumb.8af93e71.jpg"
+    "revision": "2cd5c386719349bccdd4aef9b0e03405",
+    "url": "/static/media/cover-weatherdata-thumb.2cd5c386.jpg"
   },
   {
     "revision": "344a0dbb8bb38bbf7e300f36292b4f6f",
@@ -398,5 +490,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44de2d581aa1739aa0748e6138a3d24e",
     "url": "/static/media/jellyfish.44de2d58.mp4"
+  },
+  {
+    "revision": "415999602d69fccaa2a69457f0b781c8",
+    "url": "/static/media/m-banner-part2.41599960.png"
+  },
+  {
+    "revision": "a6f264064735c862d07c4b3f1f0d0ee0",
+    "url": "/static/media/m-banner-part6.a6f26406.png"
   }
 ]);
