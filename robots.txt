@@ -1,8 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
-User-agent: Googlebot
-Allow: /
-
-User-agent: Googlebot-image
+User-agent: *
 Allow: /
 
 Sitemap: http://portfolio.jellydevelops.com/sitemap.xml
