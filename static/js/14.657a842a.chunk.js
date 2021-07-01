@@ -1,1 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[14],{585:function(o,t,i){"use strict";i.r(t);var n=i(135);i.d(t,"default",(function(){return n.b}))}}]);
