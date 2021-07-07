@@ -57,11 +57,8 @@
       <priority>0.8</priority>
    </url>
     -->
-   <!-- 
    <url>
       <loc>http://portfolio.jellydevelops.com/get-in-touch/</loc>
-      <priority>0.8</priority>
+      <priority>1</priority>
    </url>
-    -->
-
 </urlset> 
