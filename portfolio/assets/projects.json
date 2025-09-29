@@ -1,0 +1,339 @@
+[
+	{
+		"projects": [
+			{
+				"project":"Cartalog",
+				"data":[
+					{
+						"cover_image_filename": "cartalog.jpg",
+						"desc": "Cartalog is a dealer-only car trading portal that streamlines new car inventory management with a full-stack solution, featuring a front-end for dealers and a custom back-end for business operations.",
+						"url":"https://www.sgcartalog.com/",
+						"source": null, 
+						"tech_stack":["tag_001", "tag_003", "tag_007", "tag_009", "tag_011", "tag_018", "tag_022", "tag_029"],
+						"completion_year": 2018,
+						"detailed_info": {
+							"key_takeaways":[
+								"Deepened full-stack expertise by building a car trading platform with dealer and admin portals.", 
+								"Enhanced project ownership and lifecycle management by leading all phases from requirements gathering to post-launch improvements.",
+								"Refined problem-solving and workflow optimization through designing a tailored management system for dealer operations."
+							],
+							"project_gallery":[
+								{"src": "cartalog-1.png", "caption": "Dealer Portal - Landing Page"},
+								{"src": "cartalog-2.png", "caption": "Dealer Portal - Dashboard"},
+								{"src": "cartalog-3.png", "caption": "Dealer Portal - Search View"}, 
+								{"src": "cartalog-4.png", "caption": "Dealer Portal - Details Page"}, 
+								{"src": "cartalog-5.png", "caption": "Dealer Portal (Mobile) - Registration Panel"}, 
+								{"src": "cartalog-6.png", "caption": "Dealer Portal (Mobile) - Login Panel"}, 
+								{"src": "cartalog-7.png", "caption": "Dealer Portal (Mobile) - Dashboard"},
+								{"src": "cartalog-8.png", "caption": "Admin Portal - Landing Page"},
+								{"src": "cartalog-9.png", "caption": "Admin Portal - Dashboard"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"jellymiso v1",
+				"data":[
+					{
+						"cover_image_filename": "jellydevelops-v1.jpg",
+						"desc": "JellyMiso V1 ia a personal portfolio website developed using ReactJS. Built to be lightweight and fast, the site showcases a collection of projects and served as a hands-on opportunity to gain familiarity with the ReactJS framework.",
+						"url":"https://v1.portfolio.jellydevelops.com/",
+						"source":"https://github.com/jellymiso/jellymiso.github.io", 
+						"tech_stack":["tag_001", "tag_002", "tag_007", "tag_012", "tag_023", "tag_024", "tag_021", "tag_025", "tag_027", "tag_029"],
+						"completion_year": 2020,
+						"detailed_info": {
+							"key_takeaways":[
+								"Familiarized and expanded expertise in ReactJS by delivering a modular, performance-focused portfolio site.", 
+								"Strengthened deployment proficiency across diverse hosting technologies and environments.",
+								"Improved content structuring and data management efficiency by applying JSON in streamlined content management processes.",
+								"Enhanced versatility in API integration through implementation of multiple popular third-party services."
+							],
+							"project_gallery":[
+								{"src": "jellydevelops_v1-1.png", "caption": "Portfolio Home Page"},
+								{"src": "jellydevelops_v1-2.png", "caption": "Project Details Page"},
+								{"src": "jellydevelops_v1-3.png", "caption": "Contact Page"}, 
+								{"src": "jellydevelops_v1-4.gif", "caption": "Site Loading Overlay"}, 
+								{"src": "jellydevelops_v1-5.gif", "caption": "404 Not Found Page"}, 
+								{"src": "jellydevelops_v1-6.png", "caption": "Home Page (Mobile)"}, 
+								{"src": "jellydevelops_v1-7.png", "caption": "Project Details Page (Mobile)"},
+								{"src": "jellydevelops_v1-8.png", "caption": "Contact Page (Mobile)"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"jellymiso v2",
+				"data":[
+					{
+						"cover_image_filename": "jellydevelops-v2.jpg",
+						"desc": "JellyMiso V2 is a personal portfolio website with creative, AI-inspired frontend interactions and modern web technologies. Plans are underway to transit into a MERN stack with a simplified backend for content management.",
+						"url":"https://www.website.com",
+						"source":"https://www.github.com/some_random_not_mandatory_project", 
+						"tech_stack":["tag_001", "tag_002", "tag_003", "tag_007", "tag_030"],
+						"completion_year": 2025,
+						"detailed_info": {
+							"key_takeaways":[
+								"Built experience on leveraging AI to accelerate coding, refine problem-solving, and drive ideation.", 
+								"Enhanced skills in building custom cursors and animations for playful, interactive experiences.",
+								"Strengthened skills in asset prep, content planning, and building interactive features, while balancing UX/UI and technical execution.",
+								"Gained experience in building stacked scrolling layout sections that piles on the next, while anchored to the viewport bottom."
+							],
+							"project_gallery":[
+								{"src": "jellydevelops_v2-1.png", "caption": "Portfolio Home Page - Welcome Splash"},
+								{"src": "jellydevelops_v2-2.gif", "caption": "Portfolio Home Page - Introduction"},
+								{"src": "jellydevelops_v2-3.gif", "caption": "Portfolio Home Page - About Me"}, 
+								{"src": "jellydevelops_v2-4.gif", "caption": "Portfolio Home Page - Skills & Profeciencies"}, 
+								{"src": "jellydevelops_v2-5.gif", "caption": "Portfolio Home Page - Tech Stacks / Project Showcase"}, 
+								{"src": "jellydevelops_v2-6.gif", "caption": "Portfolio Home Page - Global Presence & Availability"}, 
+								{"src": "jellydevelops_v2-7.gif", "caption": "Portfolio Home Page (Mobile) - Menu"},
+								{"src": "jellydevelops_v2-8.gif", "caption": "Portfolio Home Page (Mobile)"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"Murdoch Weather Station",
+				"data":[
+					{
+						"cover_image_filename": "weather-station.jpg",
+						"desc": "Murdoch Weather Station is a web application that presents past weather statistics by retrieving and processing weather data stored in XML or JSON format via AJAX. The data is then displayed to the user in interactive graphs and tables.",
+						"url":"https://murdoch-weather-station.vercel.app/",
+						"source":"https://github.com/jellymiso/weather-station", 
+						"tech_stack":["tag_001", "tag_002", "tag_003", "tag_004", "tag_007", "tag_011", "tag_031", "tag_021", "tag_026"],
+						"completion_year": 2020,
+						"detailed_info": {
+							"key_takeaways":[
+								"Leveraged existing technical expertise to quickly adapt to a new environment and unfamiliar technologies.", 
+								"Developed Node.js and Apache skills by building a weather data presentation web application from scratch.",
+								"Enhanced data visualization skills by displaying historic weather statistics using dynamic charts (Chart.js API).",
+								"Strengthened web design and mobile responsiveness skills by crafting intuitive interfaces across devices."
+							],
+							"project_gallery":[
+								{"src": "weather-station-1.png", "caption": "Initial Load"},
+								{"src": "weather-station-2.png", "caption": "Form Filled"},
+								{"src": "weather-station-3.png", "caption": "Loading Weather Data"}, 
+								{"src": "weather-station-4.png", "caption": "Retrieved Weather Data"}, 
+								{"src": "weather-station-5.png", "caption": "Form Filled (Mobile)"}, 
+								{"src": "weather-station-6.png", "caption": "Retrieved Weather Data (Mobile)"} 
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"Nalati Singapore",
+				"data":[
+					{
+						"cover_image_filename": "nalati.jpg",
+						"desc": "Nalati Singapore is a client project for a unique garden-themed restaurant. The website's development focused on creating an interactive user experience, with a key highlight being a responsive menu carousel designed to meet specific client requirements.",
+						"url":"https://web.archive.org/web/20210622133632/http://www.nalati.com.sg/",
+						"source": null, 
+						"tech_stack":["tag_001", "tag_003", "tag_007", "tag_011", "tag_022", "tag_029", "tag_025"],
+						"completion_year": 2020,
+						"detailed_info": {
+							"key_takeaways":[
+								"Sharpened frontend development expertise by building a responsive, interactive website with subtle fade animations across devices.", 
+								"Strengthened coding skills in interactive components by implementing a duet menu carousel for an intuitive restaurant menu experience.",
+								"Deepened stakeholder communication and management skills by applying technical expertise to meet project requirements effectively."
+							],
+							"project_gallery":[
+								{"src": "nalati-1.png", "caption": "Landing Page - Top Fold"},
+								{"src": "nalati-2.png", "caption": "Landing Page - Restaurant Ambiance Showcase & Reservation"},
+								{"src": "nalati-3.png", "caption": "Details Page - About Us"}, 
+								{"src": "nalati-4.png", "caption": "Details Page - Our Menus"}, 
+								{"src": "nalati-5.png", "caption": "Landing Page (Mobile)"}, 
+								{"src": "nalati-6.png", "caption": "Details Page (Mobile)"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"TakeMeAway",
+				"data":[
+					{
+						"cover_image_filename": "takemeaway.jpg",
+						"desc": "TakeMeAway is an Android journal app developed as a university project that enables users to log travel experiences with date & time stamps, geolocation, as well as image uploads. While not released publicly, plans are underway to revamp it into a commercially viable product.",
+						"url": null,
+						"source":"https://github.com/phammmmm/ICT376_A2", 
+						"tech_stack":["tag_004", "tag_032", "tag_013", "tag_019"],
+						"completion_year": 2020,
+						"detailed_info": {
+							"key_takeaways":[
+								"Expanded mobile application development skills through creating a travel journal app with geolocation, image capture, and timestamp features.", 
+								"Strengthened database implementation skills through design and development of an SQLite database helper class for efficient data management.",
+								"Enhanced mentorship skills by providing professional development guidance to team members with limited technical background."
+							],
+							"project_gallery":[
+								{"src": "takemeaway-1.png", "caption": "Splash Screen"},
+								{"src": "takemeaway-2.png", "caption": "Home Screen (Main Activity)"},
+								{"src": "takemeaway-3.png", "caption": "Edit List Item"}, 
+								{"src": "takemeaway-4.png", "caption": "Media Upload (Fragment)"}, 
+								{"src": "takemeaway-5.png", "caption": "Add New List Item - Landscape Orientation"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"TOLYN",
+				"data":[
+					{
+						"cover_image_filename": "tolyn.jpg",
+						"desc": "TOLYN is a lightweight Android app for mobile lighting needs. It offers features like flashlight, strobe light, SOS, and screen light modes, providing a unique lighting experience beyond default system capabilities. The app was later migrated from native Android development to Flutter.",
+						"url":"https://play.google.com/store/apps/details?id=com.jellydevelops.tolyn",
+						"source": null, 
+						"tech_stack":["tag_005", "tag_013", "tag_014", "tag_015", "tag_028"],
+						"completion_year": 2020,
+						"detailed_info": {
+							"key_takeaways":[
+								"Showcased the ability to deliver a complete product independently by coding, testing, and publishing a consumer-ready app to the public market.", 
+								"Deepened familiarity with the Android development lifecycle and backward compatibility challenges, particularly with rapid API deprecation and evolving hardware requests.",
+								"Gained practical release and distribution experience by managing the full Google Play deployment process, from app publishing to analytics and monetization setup."
+							],
+							"project_gallery":[
+								{"src": "tolyn-1.png", "caption": "Google Playstore Feature Graphic"},
+								{"src": "tolyn-2.png", "caption": "Google Playstore App Screenshots #1"},
+								{"src": "tolyn-3.png", "caption": "Google Playstore App Screenshots #2"}, 
+								{"src": "tolyn-4.png", "caption": "UI Vision Mockup"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"Is It Holiday?",
+				"data":[
+					{
+						"cover_image_filename": "events-calendar.jpg",
+						"desc": "Is It Holiday? is a lightweight web app that quickly tells users whether a specific day is a holiday in their region or beyond, helping them stay informed about holidays anywhere, past or upcoming.",
+						"url":"https://is-it-holiday.vercel.app/",
+						"source":"https://github.com/jellymiso/django-is-it-holiday", 
+						"tech_stack":["tag_001", "tag_002", "tag_003", "tag_007", "tag_008", "tag_010", "tag_021", "tag_024", "tag_026"],
+						"completion_year": 2025,
+						"detailed_info": {
+							"key_takeaways":[
+								"Built a functional web app using Django for the first time while reinforcing Python knowledge.", 
+								"Deepened expertise in Google CSE API updates through hands-on integration for search functionality.",
+								"Implemented a dual-API fallback system to keep the website fully operational even if one API fails, which is crucial for the core site functionality."
+							],
+							"project_gallery":[
+								{"src": "events-calendar-1.png", "caption": "App Scenario: Not a Holiday"},
+								{"src": "events-calendar-2.png", "caption": "App Scenario: Is A Holiday"},
+								{"src": "events-calendar-3.png", "caption": "Calendar View"}, 
+								{"src": "events-calendar-4.png", "caption": "Countries View"}, 
+								{"src": "events-calendar-5.png", "caption": "Randomized Holiday Loader"},
+								{"src": "events-calendar-6.png", "caption": "Mobile View"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"Live Currency Converter",
+				"data":[
+					{
+						"cover_image_filename": "currency-conversion.jpg",
+						"desc": "Live Currency Converter is a Flutter-based web app that provides up-to-date currency exchange rates with real-time conversions. It demonstrates practical API integration and explores monetization through affiliate linking.",
+						"url":"https://live-exchange-rate-converter.vercel.app/",
+						"source":"https://github.com/jellymiso/flutter-currency-converter", 
+						"tech_stack":["tag_002", "tag_005", "tag_014", "tag_021", "tag_026"],
+						"completion_year": 2025,
+						"detailed_info": {
+							"key_takeaways":[
+								"Developed a web app using Flutter on the Web for the first time, expanding prior Flutter experience into browser-based deployment.", 
+								"Built experience on using HTTP requests in Flutter to integrate external APIs and add real-time functionality to the app.",
+								"Gained insight into monetization strategies by experimenting with affiliate linking within a functional project."
+							],
+							"project_gallery":[
+								{"src": "currency-conversion-1.png", "caption": "Initial Load"},
+								{"src": "currency-conversion-2.png", "caption": "Currency Selection"},
+								{"src": "currency-conversion-3.png", "caption": "Mobile View"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"Jelist",
+				"data":[
+					{
+						"cover_image_filename": "jelist.jpg",
+						"desc": "Jelist is a user-friendly productivity app for effortless list and note management. It offers a stress-free way to capture ideas, manage to-dos, track important info, and more. With a simple yet thoughtful design, Jelist ensures your notes are always easy to access. Expected release in 2026.",
+						"url":null,
+						"source":null, 
+						"tech_stack":["tag_002", "tag_005", "tag_013", "tag_014", "tag_033", "tag_020", "tag_028"],
+						"completion_year": null,
+						"detailed_info": {
+							"key_takeaways":[
+								"Gained hands-on experience in the Flutter development lifecycle by picking up Flutter and Dart from scratch while migrating the app from Android Studio (Java).", 
+								"Strengthened visual design skills by designing and creating the app's logo, along with its color palettes and typography to establish a consistent brand identity.",
+								"Improved Flutter development skills by building reusable custom widgets and extending core classes to create new functional components."
+							],
+							"project_gallery":[
+								{"src": "jelist-1.png", "caption": "App Icon"},
+								{"src": "jelist-2.png", "caption": "Mockup - Listing View"},
+								{"src": "jelist-3.png", "caption": "Mockup - Empty Listing View"},
+								{"src": "jelist-4.png", "caption": "Mockup - Checkable Unordered List Item View"},
+								{"src": "jelist-5.png", "caption": "Mockup - Ordered List Item View"},
+								{"src": "jelist-6.png", "caption": "Mockup - Text List Item View"},
+								{"src": "jelist-7.png", "caption": "Mockup - Setting View"},
+								{"src": "jelist-8.png", "caption": "Mockup - Changeable Theme Color"}
+							]
+						}
+					}
+				]
+			},
+			{
+				"project":"Adventures of the Jolly Blacksmith Girl",
+				"data":[
+					{
+						"cover_image_filename": "blacksmith-girl.jpg",
+						"desc": "Adventures of the Jolly Blacksmith Girl is a whimsical action-adventure game where players guide Poppy, a young blacksmith, in rescuing her family. Armed with an enchanted hammer, she battles minions and uncovers the secrets to restore peace.",
+						"url":"https://play.google.com/store/apps/details?id=com.jellydevelops.adventuresofthejollyblacksmithgirl",
+						"source":null, 
+						"tech_stack":["tag_006", "tag_013", "tag_015", "tag_016", "tag_017", "tag_028", "tag_030"],
+						"completion_year": 2023,
+						"detailed_info": {
+							"key_takeaways":[
+								"Established solid grasp of the game development lifecycle by publishing a full-fledged mobile game, with core game mechanics built using Godot.", 
+								"Picked up game asset skills through custom pixel art making and basic music and sound effect edits.",
+								"Gained exposure to AI-assisted workflows in content planning, asset generation, and project structuring.",
+								"Improved monetization skills by implementing various ad types with Google AdMob and other networks."
+							],
+							"project_gallery":[
+								{"src": "blacksmith-girl-1.png", "caption": "Feature Graphic"},
+								{"src": "blacksmith-girl-2.png", "caption": "Developer Branding"},
+								{"src": "blacksmith-girl-3.png", "caption": "App Icon"},
+								{"src": "blacksmith-girl-4.png", "caption": "Poppy The Blacksmith Girl"},
+								{"src": "blacksmith-girl-5.png", "caption": "Game Screenshot"},
+								{"src": "blacksmith-girl-6.png", "caption": "Promo Image #1"},
+								{"src": "blacksmith-girl-7.png", "caption": "Promo Image #2"},
+								{"src": "blacksmith-girl-8.png", "caption": "Promo Image #3"},
+								{"src": "blacksmith-girl-9.png", "caption": "Promo Image #4"},
+								{"src": "blacksmith-girl-10.png", "caption": "Promo Image #5"}
+							]
+						}
+					}
+				]
+			}
+			//,
+			// {
+			// 	"project":"Coming Soon New Game",
+			// 	"data":[
+			// 		{
+			// 			"cover_image_filename": ".jpg",
+			// 			"desc": "Class ullamcorper dignissim maximus congue penatibus dignissim. Dignissim urna lobortis senectus semper orci quisque aliquam ullamcorper. In quis vel tincidunt neque blandit magnis odio ultrices. Placerat nec tempor congue rhoncus habitant. Vehicula praesent rutrum facilisi conubia rhoncus. Sed dignissim mollis ligula fringilla, cras odio posuere. Massa nostra donec fames lacus nascetur curabitur. Dapibus aliquam inceptos lobortis magna dictum nascetur semper duis tempus. Purus praesent pellentesque feugiat consequat fringilla sapien ullamcorper quis. Malesuada magnis porttitor ornare eget purus fames.",
+			// 			"url":"https://www.website.com",
+			// 			"source":"https://www.github.com/some_random_not_mandatory_project", 
+			// 			"tech_stack":[],
+			// 			"detailed_info": {"more_data":"goes here"}
+			// 		}
+			// 	]
+			// }
+		]
+	}
+]

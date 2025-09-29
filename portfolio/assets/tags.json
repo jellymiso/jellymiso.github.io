@@ -1,0 +1,200 @@
+[
+  {
+    "id": "tag_001",
+    "name": "CSS",
+    "category": "Technical Languages",
+    "subcategory": "Other Languages"
+  },
+	{
+    "id": "tag_002",
+    "name": "JSON",
+    "category": "Technical Languages",
+    "subcategory": "Other Languages"
+  },
+	{
+    "id": "tag_003",
+    "name": "HTML",
+    "category": "Technical Languages",
+    "subcategory": "Other Languages"
+  },
+	{
+    "id": "tag_004",
+    "name": "XML",
+    "category": "Technical Languages",
+    "subcategory": "Other Languages"
+  },
+	{
+    "id": "tag_005",
+    "name": "Dart",
+    "category": "Technical Languages",
+    "subcategory": "Programming Languages"
+  },
+	{
+    "id": "tag_006",
+    "name": "GDScript",
+    "category": "Technical Languages",
+    "subcategory": "Programming Languages"
+  },
+	{
+    "id": "tag_032",
+    "name": "Java",
+    "category": "Technical Languages",
+    "subcategory": "Programming Languages"
+  },
+	{
+    "id": "tag_007",
+    "name": "JavaScript",
+    "category": "Technical Languages",
+    "subcategory": "Programming Languages"
+  },
+	{
+    "id": "tag_008",
+    "name": "Python",
+    "category": "Technical Languages",
+    "subcategory": "Programming Languages"
+  },
+	{
+    "id": "tag_009",
+    "name": ".NET Ecosystem",
+    "category": "Development Tools",
+    "subcategory": "Frameworks & Libraries"
+  },
+	{
+    "id": "tag_010",
+    "name": "Django",
+    "category": "Development Tools",
+    "subcategory": "Frameworks & Libraries"
+  },
+	{
+    "id": "tag_011",
+    "name": "jQuery",
+    "category": "Development Tools",
+    "subcategory": "Frameworks & Libraries"
+  },
+	{
+    "id": "tag_031",
+    "name": "Node.JS",
+    "category": "Development Tools",
+    "subcategory": "Frameworks & Libraries"
+  },
+	{
+    "id": "tag_012",
+    "name": "React",
+    "category": "Development Tools",
+    "subcategory": "Frameworks & Libraries"
+  },
+	{
+    "id": "tag_013",
+    "name": "Android Tooling",
+    "category": "Development Tools",
+    "subcategory": "Mobile-focused Tools"
+  },
+	{
+    "id": "tag_014",
+    "name": "Flutter",
+    "category": "Development Tools",
+    "subcategory": "Mobile-focused Tools"
+  },
+	{
+    "id": "tag_015",
+    "name": "Google Play Console",
+    "category": "Development Tools",
+    "subcategory": "Mobile-focused Tools"
+  },
+	{
+    "id": "tag_033",
+    "name": "Adobe Design Software",
+    "category": "Development Tools",
+    "subcategory": "Other Dev Tools"
+  },
+	{
+    "id": "tag_016",
+    "name": "Aseprite",
+    "category": "Development Tools",
+    "subcategory": "Other Dev Tools"
+  },
+	{
+    "id": "tag_017",
+    "name": "Godot Engine",
+    "category": "Development Tools",
+    "subcategory": "Other Dev Tools"
+  },
+	{
+    "id": "tag_018",
+    "name": "Microsoft SQL Server",
+    "category": "Databases",
+    "subcategory": "Relational"
+  },
+	{
+    "id": "tag_019",
+    "name": "SQLite",
+    "category": "Databases",
+    "subcategory": "Relational"
+  },
+	{
+    "id": "tag_020",
+    "name": "Localstore (Flutter)",
+    "category": "Databases",
+    "subcategory": "NoSQL"
+  },
+	{
+    "id": "tag_021",
+    "name": "Serverless Hosting",
+    "category": "Infrastructure",
+    "subcategory": "Servers"
+  },
+	{
+    "id": "tag_022",
+    "name": "Web Server",
+    "category": "Infrastructure",
+    "subcategory": "Servers"
+  },
+	{
+    "id": "tag_023",
+    "name": "Cloudflare",
+    "category": "Infrastructure",
+    "subcategory": "CDN"
+  },
+	{
+    "id": "tag_024",
+    "name": "Google CSE",
+    "category": "APIs & Services",
+    "subcategory": "Web APIs"
+  },
+	{
+    "id": "tag_025",
+    "name": "Meta APIs",
+    "category": "APIs & Services",
+    "subcategory": "Web APIs"
+  },
+	{
+    "id": "tag_026",
+    "name": "Other Specialized API",
+    "category": "APIs & Services",
+    "subcategory": "Web APIs"
+  },
+	{
+    "id": "tag_027",
+    "name": "SendGrid API",
+    "category": "APIs & Services",
+    "subcategory": "Web APIs"
+  },
+	{
+    "id": "tag_028",
+    "name": "Google AdMob",
+    "category": "APIs & Services",
+    "subcategory": "Marketing & Analytics"
+  },
+	{
+    "id": "tag_029",
+    "name": "Google Analytics",
+    "category": "APIs & Services",
+    "subcategory": "Marketing & Analytics"
+  },
+	{
+    "id": "tag_030",
+    "name": "Generative AI",
+    "category": "APIs & Services",
+    "subcategory": "Other Services"
+  }
+]
