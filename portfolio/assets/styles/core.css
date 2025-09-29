@@ -1,36 +1,17 @@
-/*------------------------------------------------------------------
-[Table of contents]
-
+/*[Table of contents]
+-------------------------------------------------------------------
 1. Css Variables
-2. General Styles
-3. Site Structure
-4. Splash Section Styles (Top Fold)
-5. Animations
+2. Css Animations
+3. General Styles
+4. Site Structure
+5. Splash Section Styles (Top Fold)
 6. About Section Styles
 7. Skills Section Styles
 8. Tech & Speciality Section Styles
 9. Location Section Styles
 10. Footer Styles
 11. Custom Cursors
-
-
-6. Mobile Responsive
-
-
-Body
-4. Content / #content
-5. Left column / #leftcolumn
-6. Right column / #rightcolumn
-7. Sidebar / #sidebar
-8. RSS / #rss
-9. Search / #search
-10. Boxes / .box
-11. Sideblog / #sideblog
-12. Advertisements / .ads
-13. Footer / #footer
-
 -------------------------------------------------------------------*/
-
 
 
 /* =======================================================================
@@ -908,7 +889,7 @@ Body
 
 
 /* =======================================================================
-   2. General Styles
+   3. General Styles
    =======================================================================
    • Fundamentals:      Global Resets & Base Styles
    • Defaults:          Default styles for Content
@@ -1004,7 +985,7 @@ img{display: block;}
   =============*/
 body::before{
    content:"big screen"; position: fixed; top:100px; z-index: 10; padding:0 10px;
-   text-shadow: 1px 1px var(--color-light);
+   text-shadow: 1px 1px var(--color-light); display:none;
 }
 /*=== 1680px and below */
 @media screen and (max-width: 1680px) {
@@ -1127,9 +1108,8 @@ body::before{
 }
 
 
-
 /* =======================================================================
-   3. Site Structure
+   4. Site Structure
    =======================================================================
    • Main Container:       Wraps the entire site
    • Section Containers:   Main sections of this page
@@ -1161,7 +1141,7 @@ body::before{
 
 
 /* =======================================================================
-   3. Splash Section Styles
+   5. Splash Section Styles
    =======================================================================
    • Section Core:      Main container & shared direct-child styles
    • Overlay Block:     Micro jellyfish background overlay
@@ -1649,7 +1629,7 @@ body::before{
 
 
 /* =======================================================================
-   3. About Section Styles
+   6. About Section Styles
    =======================================================================
    • Section Core:         Main container & shared direct-child styles
    • Background Parallax:  Background Parallax effect
@@ -1745,7 +1725,6 @@ body::before{
 #about .contact-social h3{margin-top:30px;}
 #about .contact-social img{display: block;}
 #about .contact-email .contact{display:inline-block; vertical-align:top; margin:8px 0 5px;}
-
 
 /*==  Scroll BLock  ==
   ====================*/
@@ -1877,7 +1856,7 @@ body::before{
 
 
 /* =======================================================================
-   3. Skills Section Styles
+   7. Skills Section Styles
    =======================================================================
    • Section Core:            Main container & shared direct-child styles
    • Background Parallax:     Background Parallax effect
@@ -1937,7 +1916,6 @@ body::before{
 /*==  Left Title Content ==
   =========================*/
 #skills .left-content{flex: 0 0 35%; margin-right: 2.5%;}
-
 
 /*==  Right Accordion Content  ==
   ===============================*/
@@ -2202,7 +2180,7 @@ body::before{
 
 
 /* =======================================================================
-   3. Tech & Speciality Section Styles
+   8. Tech & Speciality Section Styles
    =======================================================================
    • Section Core:            Main container & shared direct-child styles
    • Tech Sidebar:            Sidebar (Tech Section)
@@ -2778,7 +2756,7 @@ body .lightbox .nav:not([disabled]):hover{color:var(--color-secondary_alt);}
 
 
 /* =======================================================================
-   3. Location Section Styles
+   9. Location Section Styles
    =======================================================================
    • Section Core:            Main container & shared direct-child styles
    • Global Presence Block:   Global Presence, Opening Slate, Overlay
@@ -3159,7 +3137,7 @@ body .lightbox .nav:not([disabled]):hover{color:var(--color-secondary_alt);}
 
 
 /* =======================================================================
-   3. Footer Styles
+   10. Footer Styles
    =======================================================================
    • Section Core:      Main container & shared direct-child styles
    • Seperators:        Sub section seperators
@@ -3236,7 +3214,7 @@ body .lightbox .nav:not([disabled]):hover{color:var(--color-secondary_alt);}
 
 
 /* =======================================================================
-   3. Custom Cursors
+   11. Custom Cursors
    =======================================================================
    • Section Core:   Main container & shared direct-child styles
    • Seperator:      Sub section seperators
@@ -3793,31 +3771,3 @@ body .lightbox .nav:not([disabled]):hover{color:var(--color-secondary_alt);}
 }
 /*=== Hover styles for hidding custom cursor */
 .hover-none{opacity:0; transition:opacity 0.25s;}
-
-
-
-/* responsive testbed (to remove) */
-/*=== 1680px and below */
-@media screen and (max-width: 1680px) {
-}
-/*=== 1440px and below */
-@media screen and (max-width: 1440px) {
-}
-/*=== 1280px and below */
-@media screen and (max-width: 1280px) {
-}
-/*=== 1024px and below */
-@media screen and (max-width: 1024px) {
-}
-/*=== 960px and below */
-@media screen and (max-width: 960px) {
-}
-/*=== 769px and below */
-@media screen and (max-width: 769px) {
-}
-/*=== 540px and below */
-@media screen and (max-width: 540px) {
-}
-/*=== 320px and below */
-@media screen and (max-width: 320px) {
-}
