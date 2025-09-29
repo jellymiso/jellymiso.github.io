@@ -1,0 +1,1 @@
+(this["webpackJsonpportfolio-v1"]=this["webpackJsonpportfolio-v1"]||[]).push([[15],{590:function(o,t,i){"use strict";i.r(t);var n=i(15);i.d(t,"default",(function(){return n.k}))}}]);
