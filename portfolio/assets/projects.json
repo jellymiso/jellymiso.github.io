@@ -38,8 +38,8 @@
 					{
 						"cover_image_filename": "jellydevelops-v1.jpg",
 						"desc": "JellyMiso V1 ia a personal portfolio website developed using ReactJS. Built to be lightweight and fast, the site showcases a collection of projects and served as a hands-on opportunity to gain familiarity with the ReactJS framework.",
-						"url":"https://v1.portfolio.jellydevelops.com/",
-						"source":"https://github.com/jellymiso/jellymiso.github.io", 
+						"url":"https://jellydevelops.com/portfolio/v1/",
+						"source":"https://github.com/jellymiso/jellymiso.github.io/tree/master/portfolio/v1", 
 						"tech_stack":["tag_001", "tag_002", "tag_007", "tag_012", "tag_023", "tag_024", "tag_021", "tag_025", "tag_027", "tag_029"],
 						"completion_year": 2020,
 						"detailed_info": {
@@ -69,8 +69,8 @@
 					{
 						"cover_image_filename": "jellydevelops-v2.jpg",
 						"desc": "JellyMiso V2 is a personal portfolio website with creative, AI-inspired frontend interactions and modern web technologies. Plans are underway to transit into a MERN stack with a simplified backend for content management.",
-						"url":"https://www.website.com",
-						"source":"https://www.github.com/some_random_not_mandatory_project", 
+						"url":"https://jellydevelops.com/portfolio/",
+						"source":"https://github.com/jellymiso/jellymiso.github.io/tree/master/portfolio/", 
 						"tech_stack":["tag_001", "tag_002", "tag_003", "tag_007", "tag_030"],
 						"completion_year": 2025,
 						"detailed_info": {
@@ -199,7 +199,10 @@
 								{"src": "tolyn-2.png", "caption": "Google Playstore App Screenshots #1"},
 								{"src": "tolyn-3.png", "caption": "Google Playstore App Screenshots #2"}, 
 								{"src": "tolyn-4.png", "caption": "UI Vision Mockup"}
-							]
+							],
+							"remarks":["Originally published under the developer account <u><i>jellydevelops</i></u> as package <i><b>com.jellydevelops.tolyn</b></i>, the app was republished under <u><i>jellydevelops.com</i></u> after the original account was closed due to inactivity, and is currently accessible only to Play Store testers ahead of the official release.",
+							"Join a Google Group to help become a tester for this app: <ul><li><a href='https://groups.google.com/g/jellydevelops-testers' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='jellydevelops-testers@googlegroups.com'>jellydevelops-testers</a></li><li><a href='https://groups.google.com/g/testers-community' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='testers-community@googlegroups.com'>testers-community</a></li><li><a href='https://groups.google.com/g/testers-community-2' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='testers-community-2@googlegroups.com'>testers-community-2</a></li></ul>",
+							"After joining, access <ul><li><a href='https://play.google.com/store/apps/details?id=com.jellydevelops.tolyn_app' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='via Android devices'>via Android devices</a></li><li><a href=' https://play.google.com/apps/testing/com.jellydevelops.tolyn_app' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='via Web'>via Web</a></li></ul>"]
 						}
 					}
 				]
@@ -315,7 +318,8 @@
 								{"src": "blacksmith-girl-8.png", "caption": "Promo Image #3"},
 								{"src": "blacksmith-girl-9.png", "caption": "Promo Image #4"},
 								{"src": "blacksmith-girl-10.png", "caption": "Promo Image #5"}
-							]
+							],
+							"remarks":["Originally developed under <u><i>jellydevelops</i></u> as package <i><b>com.jellydevelops.adventuresofthejollyblacksmithgirl</b></i>, the app is being republished under <u><i>jellydevelops.com</i></u> after the original account was closed due to inactivity. It is currently undergoing a major rework. Stay tuned for upcoming tester access and public release."]
 						}
 					}
 				]

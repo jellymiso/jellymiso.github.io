@@ -945,6 +945,7 @@ var indexPage = {
 				pj.loadProjects(function(){
 					pj.projectPhotoLightbox.init();
 					pj.projectKeyTakeawayPopupModal.init();
+					pj.projectRemarksPopupModal.init();
 				});
 			},
 			loadProjects: function(onComplete){
@@ -968,7 +969,7 @@ var indexPage = {
 											"source": projectData.source || null,
 											"gallery": projectData.detailed_info.project_gallery || null,
 											"takeaways": projectData.detailed_info.key_takeaways || null,
-
+											"remarks": projectData.detailed_info.remarks || null,
 										}, 
 										projectData.tech_stack
 									);
@@ -1085,6 +1086,15 @@ var indexPage = {
 					keyTakeawaysIcon.setAttribute("data-hover-class", "hover-copy");
 					keyTakeawaysIcon.setAttribute("data-takeaways", JSON.stringify(project_meta.takeaways));
 					projectMeta.appendChild(keyTakeawaysIcon);
+				}
+				if(project_meta.remarks){
+					var keyRemarksIcon = document.createElement('span');
+					keyRemarksIcon.className = 'meta-icons remarks';
+					keyRemarksIcon.setAttribute("title", "Check Remarks");
+					keyRemarksIcon.setAttribute("data-hover", "true");
+					keyRemarksIcon.setAttribute("data-hover-class", "hover-copy");
+					keyRemarksIcon.setAttribute("data-remarks", JSON.stringify(project_meta.remarks));
+					projectMeta.appendChild(keyRemarksIcon);
 				}
 
 				// Description container
@@ -1339,6 +1349,61 @@ var indexPage = {
 					var closeBtn = popupModal.querySelector('.modal-close');
 					closeBtn.addEventListener('click', function() {
 							popupModal.classList.remove('open');
+					});
+				}				
+			},
+			projectRemarksPopupModal:{
+				init: function() {
+					var ip = indexPage;
+					var pj = ip.sectionTechSpeciality.projects;
+					var projectList = pj.projectContainer.querySelectorAll('.project');
+					for (var i = 0; i < projectList.length; i++) {
+						this.makeRemarksModal(projectList[i]);
+					}
+				},
+				makeRemarksModal: function(project_parent) {
+					// Check if modal already exists
+					if (project_parent.querySelector('.remarks-modal')) return;
+
+					var remarksModalTrigger = project_parent.querySelector('.meta-icons.remarks');
+
+					if (!remarksModalTrigger) return;
+
+					// Create popup modal
+					var remarksModal = document.createElement('div');
+					remarksModal.className = 'remarks-modal';
+					remarksModal.innerHTML = `
+							<h3 class="modal-title">Project Remarks</h3>
+							<div class="remarks"></div>
+							<div class="modal-close">&times;</div>
+					`;
+					project_parent.appendChild(remarksModal);
+
+					// Populate remarks
+					var remarks;
+					try {
+							remarks = JSON.parse(remarksModalTrigger.getAttribute('data-remarks') || '[]');
+					} catch (e) {
+							remarks = [];
+					}
+
+					var modalKeysList = remarksModal.querySelector('.remarks');
+					remarks.forEach(function(remark) {
+							var p = document.createElement('p');
+							p.innerHTML = remark;
+							modalKeysList.appendChild(p);
+					});
+
+					// Open modal on trigger click
+					remarksModalTrigger.addEventListener('click', function(e) {
+							e.stopPropagation();
+							remarksModal.classList.add('open');
+					});
+
+					// Close modal on close button click
+					var closeBtn = remarksModal.querySelector('.modal-close');
+					closeBtn.addEventListener('click', function() {
+							remarksModal.classList.remove('open');
 					});
 				}				
 			}
