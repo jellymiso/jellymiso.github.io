@@ -1,8 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /
-Allow: /portfolio/
-Allow: /portfolio/v1/
+Allow: /
 
-Sitemap: https://jellydevelops.com/portfolio/sitemap.xml
-Sitemap: https://jellydevelops.com/portfolio/v1/sitemap.xml
+Sitemap: https://jellydevelops.com/sitemap.xml

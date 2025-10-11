@@ -1,8 +1,0 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow: /
-Allow: /123/
-Allow: /123/v1/
-
-Sitemap: https://abc.com/123/sitemap.xml
-Sitemap: https://abc.com/123/v1/sitemap.xml

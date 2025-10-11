@@ -3,62 +3,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-      <loc>https://jellydevelops.com/portfolio/v1/</loc>
+      <loc>https://jellydevelops.com/</loc>
+      <priority>0.9</priority>
+   </url>
+
+   <url>
+      <loc>https://jellydevelops.com/portfolio/</loc>
       <priority>1</priority>
+   </url>
+
+   <url>
+      <loc>https://jellydevelops.com/portfolio/v1/</loc>
+      <priority>0.75</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/5-hour-energy-hk/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/building-construction-authority/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/cartalog/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/fairprice-online/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/jellymiso/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/murdoch-weather-station/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/nalati-singapore/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/pentax-optical/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/singapore-summit/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/takemeaway/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/projects/tolyn/</loc>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
-   <!-- after launch -->
-   <!-- 
-   <url>
-      <loc>https://jellydevelops.com/portfolio/v1/projects/jellydevelops/</loc>
-      <priority>0.8</priority>
-   </url>
-    -->
+   
    <url>
       <loc>https://jellydevelops.com/portfolio/v1/get-in-touch/</loc>
-      <priority>1</priority>
+      <priority>0.6</priority>
    </url>
 </urlset> 
