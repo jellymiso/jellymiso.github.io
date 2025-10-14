@@ -3220,7 +3220,8 @@ body .lightbox .nav:not([disabled]):hover{color:var(--color-secondary_alt);}
 /*==  Site Credits  ==
   ====================*/
 .footer .copyright,
-.footer .author{display:block; font-size:var(--text-regular); color:var(--color-light); pointer-events:none;}
+.footer .author,
+.footer .biz{display:block; font-size:var(--text-regular); color:var(--color-light); pointer-events:none;}
 .footer .author{margin-top:50px}
 .footer .branding{pointer-events: all;}
 .footer .branding .jelly{pointer-events: none;}
@@ -3250,7 +3251,8 @@ body .lightbox .nav:not([disabled]):hover{color:var(--color-secondary_alt);}
    .footer .cta a{font-size:var(--text-medium); margin-top:0px;} 
    .footer .author{margin-top:40px;}
    .footer .copyright, 
-   .footer .author{font-size:var(--text-small); line-height:175%;}
+   .footer .author,
+   .footer .biz{font-size:var(--text-small); line-height:175%;}
 }
 
 
