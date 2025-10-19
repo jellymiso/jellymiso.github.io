@@ -40,7 +40,7 @@
 						"desc": "JellyMiso V1 ia a personal portfolio website developed using ReactJS. Built to be lightweight and fast, the site showcases a collection of projects and served as a hands-on opportunity to gain familiarity with the ReactJS framework.",
 						"url":"https://jellydevelops.com/portfolio/v1/",
 						"source":"https://github.com/jellymiso/jellymiso.github.io/tree/master/portfolio/v1", 
-						"tech_stack":["tag_001", "tag_002", "tag_007", "tag_012", "tag_023", "tag_024", "tag_021", "tag_025", "tag_027", "tag_029"],
+						"tech_stack":["tag_001", "tag_002", "tag_007", "tag_012", "tag_023", "tag_024", "tag_021", "tag_025", "tag_026", "tag_029"],
 						"completion_year": 2020,
 						"detailed_info": {
 							"key_takeaways":[
