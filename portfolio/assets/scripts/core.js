@@ -2180,6 +2180,22 @@ var indexPage = {
 					onWheel: function(e){
 						var ip = indexPage;
 						var ss = ip.utilities.scroll.scrollSnap;
+
+						// ✅ NEW: allow native scroll inside scrollable elements
+						var target = e.target;
+						while (target && target !== document.body) {
+								const style = window.getComputedStyle(target);
+								const overflowY = style.overflowY;
+								const canScroll = overflowY === 'auto' || overflowY === 'scroll';
+								const hasScroll = target.scrollHeight > target.clientHeight;
+
+								if (canScroll && hasScroll) {
+										// let native scroll happen
+										return;
+								}
+								target = target.parentElement;
+						}
+						
 						var delta = e.deltaY !== undefined ? e.deltaY : -e.wheelDelta;
 						var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 						var viewportHeight = ip.utilities.layout.getViewportHeight();
@@ -2262,6 +2278,20 @@ var indexPage = {
 						// ignore mouse pointers so normal clicks work
 						if (e.pointerType === 'mouse') return;
 
+						// ✅ Allow native scroll inside scrollable elements
+						var target = e.target;
+						while (target && target !== document.body) {
+								const style = window.getComputedStyle(target);
+								const overflowY = style.overflowY;
+								const canScroll = overflowY === 'auto' || overflowY === 'scroll';
+								const hasScroll = target.scrollHeight > target.clientHeight;
+
+								if (canScroll && hasScroll) {
+										return; // skip hijack
+								}
+								target = target.parentElement;
+						}
+
 						if (ss.touchScroll.pointerId !== null) return;
 						ss.touchScroll.pointerId = e.pointerId;
 
@@ -2295,6 +2325,21 @@ var indexPage = {
 						var ip = indexPage;
 						var ss = ip.utilities.scroll.scrollSnap;
 						if (e.pointerId !== ss.touchScroll.pointerId || ss.touchScroll.isFrozen) return;
+
+						// ✅ Allow native scroll inside scrollable elements
+						var target = e.target;
+						while (target && target !== document.body) {
+								const style = window.getComputedStyle(target);
+								const overflowY = style.overflowY;
+								const canScroll = overflowY === 'auto' || overflowY === 'scroll';
+								const hasScroll = target.scrollHeight > target.clientHeight;
+
+								if (canScroll && hasScroll) {
+										return; // skip hijack
+								}
+								target = target.parentElement;
+						}
+
 
 						var now = Date.now();
 						var dy  = e.clientY - ss.touchScroll.lastMoveY;
