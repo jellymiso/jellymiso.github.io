@@ -1,6 +1,6 @@
 
 var indexPage = {
-	isDebugMode: false,
+	isDebugMode: true,
 	init: function () {
 
 		;(function logToggle() {
