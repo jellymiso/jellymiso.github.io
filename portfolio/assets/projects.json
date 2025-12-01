@@ -183,8 +183,8 @@
 				"data":[
 					{
 						"cover_image_filename": "tolyn.jpg",
-						"desc": "TOLYN is a lightweight Android app for mobile lighting needs. It offers features like flashlight, strobe light, SOS, and screen light modes, providing a unique lighting experience beyond default system capabilities. The app was later migrated from native Android development to Flutter.",
-						"url":"https://play.google.com/store/apps/details?id=com.jellydevelops.tolyn",
+						"desc": "TOLYN is a lightweight Android app offering features such as flashlight, strobe, SOS, and screen-light modes for a unique lighting experience beyond default system capabilities. Originally built in native Android, its development has since moved to Flutter.",
+						"url":"https://play.google.com/store/apps/details?id=com.jellydevelops.tolyn_app",
 						"source": null, 
 						"tech_stack":["tag_005", "tag_013", "tag_014", "tag_015", "tag_028"],
 						"completion_year": 2020,
@@ -200,8 +200,8 @@
 								{"src": "tolyn-3.png", "caption": "Google Playstore App Screenshots #2"}, 
 								{"src": "tolyn-4.png", "caption": "UI Vision Mockup"}
 							],
-							"remarks":["Originally published under the developer account <u><i>jellydevelops</i></u> as package <i><b>com.jellydevelops.tolyn</b></i>, the app was republished under <u><i>jellydevelops.com</i></u> after the original account was closed due to inactivity, and is currently accessible only to Play Store testers ahead of the official release.",
-							"Join a Google Group to help become a tester for this app: <ul><li><a href='https://groups.google.com/g/jellydevelops-testers' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='jellydevelops-testers@googlegroups.com'>jellydevelops-testers</a></li><li><a href='https://groups.google.com/g/testers-community' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='testers-community@googlegroups.com'>testers-community</a></li><li><a href='https://groups.google.com/g/testers-community-2' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='testers-community-2@googlegroups.com'>testers-community-2</a></li></ul>",
+							"remarks":["Originally published under the developer account <u><i>jellydevelops</i></u> as package <i><b>com.jellydevelops.tolyn</b></i>, the app is now republished under <u><i>jellydevelops.com</i></u> after the original account was closed due to inactivity.",
+							"If you would like to help with beta testing, you can join our Google Group: <ul><li><a href='https://groups.google.com/g/jellydevelops-testers' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='jellydevelops-testers@googlegroups.com'>jellydevelops-testers</a></li></ul>",
 							"After joining, access <ul><li><a href='https://play.google.com/store/apps/details?id=com.jellydevelops.tolyn_app' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='via Android devices'>via Android devices</a></li><li><a href=' https://play.google.com/apps/testing/com.jellydevelops.tolyn_app' target='_blank' data-hover='true' data-hover-class='hover-link' data-hover-text='join' data-hover-reveal='via Web'>via Web</a></li></ul>"]
 						}
 					}
