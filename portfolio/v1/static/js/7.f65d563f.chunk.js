@@ -1,1 +1,0 @@
-(this["webpackJsonpportfolio-v1"]=this["webpackJsonpportfolio-v1"]||[]).push([[7],{560:function(o,p,i){}}]);

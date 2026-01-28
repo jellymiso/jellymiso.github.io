@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkportfolio_v1=globalThis.webpackChunkportfolio_v1||[]).push([[78],{8078(o,l,a){a.r(l),a.d(l,{default:()=>b.bd});var b=a(645)}}]);

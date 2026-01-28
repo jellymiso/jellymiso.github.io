@@ -1,1 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[7],{560:function(o,p,i){}}]);

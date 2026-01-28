@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>http://portfolio.jellydevelops.com/</loc>
+      <priority>1</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/5-hour-energy-hk/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/building-construction-authority/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/cartalog/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/fairprice-online/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/jellymiso/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/murdoch-weather-station/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/nalati-singapore/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/pentax-optical/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/singapore-summit/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/takemeaway/</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/tolyn/</loc>
+      <priority>0.8</priority>
+   </url>
+   <!-- after launch -->
+   <!-- 
+   <url>
+      <loc>http://portfolio.jellydevelops.com/projects/jellydevelops/</loc>
+      <priority>0.8</priority>
+   </url>
+    -->
+   <url>
+      <loc>http://portfolio.jellydevelops.com/get-in-touch/</loc>
+      <priority>1</priority>
+   </url>
+</urlset> 
