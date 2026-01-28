@@ -157,7 +157,7 @@
   },
 	{
     "id": "tag_024",
-    "name": "Google CSE",
+    "name": "Google Custom Search API",
     "category": "APIs & Services",
     "subcategory": "Web APIs"
   },
@@ -190,7 +190,13 @@
     "name": "Generative AI",
     "category": "APIs & Services",
     "subcategory": "Other Services"
+  },
+	{
+    "id": "tag_027",
+    "name": "Hugging Face API",
+    "category": "APIs & Services",
+    "subcategory": "Web APIs"
   }
-  // Last entry id is tag_033
-  // available ids: tag_027
+  // Last entry id is tag_033, use the next
+  // available ids: tag_0xx
 ]

@@ -215,13 +215,14 @@
 						"desc": "Is It Holiday? is a lightweight web app that quickly tells users whether a specific day is a holiday in their region or beyond, helping them stay informed about holidays anywhere, past or upcoming.",
 						"url":"https://is-it-holiday.vercel.app/",
 						"source":"https://github.com/jellymiso/django-is-it-holiday", 
-						"tech_stack":["tag_001", "tag_002", "tag_003", "tag_007", "tag_008", "tag_010", "tag_021", "tag_024", "tag_026"],
+						"tech_stack":["tag_001", "tag_002", "tag_003", "tag_007", "tag_008", "tag_010", "tag_021", "tag_024", "tag_027", "tag_026"],
 						"completion_year": 2025,
 						"detailed_info": {
 							"key_takeaways":[
 								"Built a functional web app using Django for the first time while reinforcing Python knowledge.", 
-								"Deepened expertise in Google CSE API updates through hands-on integration for search functionality.",
-								"Implemented a dual-API fallback system to keep the website fully operational even if one API fails, which is crucial for the core site functionality."
+								"Deepened and leveraged Google Custom Search API expertise to integrate Brave Search API for the first time as fallback.",
+								"Implemented multiple multi-pipeline fallback systems to improve reliability of core functionality and minimize downtime.",
+								"Implemented AI pipeline for the first time using Hugging Face API to integrate AI model for content generation in software workflows."
 							],
 							"project_gallery":[
 								{"src": "events-calendar-1.png", "caption": "App Scenario: Not a Holiday"},
@@ -230,7 +231,8 @@
 								{"src": "events-calendar-4.png", "caption": "Countries View"}, 
 								{"src": "events-calendar-5.png", "caption": "Randomized Holiday Loader"},
 								{"src": "events-calendar-6.png", "caption": "Mobile View"}
-							]
+							],
+							"remarks":["Google's Custom Search JSON API will fully shut down in 2027 and has already begun heavily restricting access for existing users, making it unreliable for SERP purposes. To keep the project operational, I added two new fallback pipelines: <ul><li>Brave Image Search API for direct web image results</li><li>Hugging Face Text-to-Image for AI-generated images</li></ul>"]
 						}
 					}
 				]

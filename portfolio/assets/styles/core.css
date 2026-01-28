@@ -2321,7 +2321,6 @@ body::before{
    box-shadow: 1px 1px 0px inset var(--color-primary), 
                -1px -1px 0px inset var(--color-primary);
 }
-#speciality .tags.active span::before {content:"✓";}
 /*=== Close Tag */
 #speciality .tags.active span.close{
    display:flex; padding:10px; margin:-4px 0px -6px; overflow:hidden; color:var(--color-light); 
